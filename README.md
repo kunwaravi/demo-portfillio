@@ -1,4 +1,4 @@
 # demo-portfillio
 this is my first Git repository. 
 <br>
-Author- Avinash Kunwar
+Author- Avinash Kunwar(kunwar ji)
